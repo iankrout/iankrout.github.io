@@ -9,7 +9,7 @@ logo: # logo.png # filename of a logo image that has been placed into your image
 owner:
   name: Ian N Krout
   avatar: #bio-photo.jpg
-  bio: Researcher at University of Rochester, Toxicology / Microbiome / Methylmercury 
+  bio: Graduate Student at University of Rochester, Toxicology / Microbiome / Methylmercury 
   email: ian_krout@urmc.rochester.edu
   twitter: ADME_Ian
   linkedin: #linkedin
@@ -73,3 +73,4 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+
