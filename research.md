@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: Research
+title: Ongoing and Past Projects
 ---
 
 Below you will find a list of all ongoing and past research project. Enjoy!
