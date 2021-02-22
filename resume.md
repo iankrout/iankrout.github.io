@@ -5,18 +5,18 @@ layout: resume
 
 ## Currently
 
-3rd Year PhD Candidate at The Univeristy of Rochester School of Medicine and Dentistry
+A 3rd Year PhD Candidate at The Univeristy of Rochester School of Medicine and Dentistry -
 Laboratory of Dr. Matthew Rand.
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2018 - 2020`
+__University of Rochester__
+Toxicology, M.S. 
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2014 - 2018`
+__Marist College__
+Environmental Science and Assessment B.S.
 
 ## Awards
 
