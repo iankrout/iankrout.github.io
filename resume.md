@@ -5,7 +5,7 @@ layout: resume
 
 ## Currently
 
-**A 3rd Year PhD Candidate at The Univeristy of Rochester School of Medicine and Dentistry -
+**3rd Year PhD Candidate at The Univeristy of Rochester School of Medicine and Dentistry -
 Laboratory of Dr. Matthew Rand.**
 
 ## Education
