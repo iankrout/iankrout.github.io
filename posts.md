@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: Posts
+title:
 ---
 <div class="row">
    <div class="col-md-4"></div>
