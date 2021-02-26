@@ -9,7 +9,7 @@ title: Posts
          <div class="panel panel-danger">
             <div class="panel-heading">
                <h3 class="panel-title"><i class="fa fa-twitter-square" aria-hidden="true"></i>
-                  Solodev Live
+                  Ian Krouts Feed
                </h3>
             </div>
             <div class="panel-body">
