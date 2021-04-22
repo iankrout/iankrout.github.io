@@ -1,5 +1,5 @@
 ---
-layout: post-index
+layout: post
 title:
 ---
 <div class="row">
