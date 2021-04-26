@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Transport of Microplastics"
-excerpt: "Tributaries act as a means of transport for microplastics through the Hudson River Water Shed, eventually acting as an input into the Hudson River"
-modified: 4/26/2021
+title: Transport of Microplastics
+excerpt: "Tributaries"
+modified: 4/26/2021, 10:00:24
 comments: true
 category: blog
 ---
-
-
